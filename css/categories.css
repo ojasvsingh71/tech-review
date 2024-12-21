@@ -10,7 +10,7 @@ body {
   line-height: 1.6;
   color: #333;
   background-color: #f5f5f5;
-  background-image: url("../img/background.webp"); /* Ensure correct path */
+  background-image: url("../img/background.webp"); 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
